@@ -9,9 +9,6 @@ Apaixonado por transformar ideias em soluções escaláveis e limpas.
 - 🧠 Banco de dados: PostgreSQL, Oracle, SQL Server  
 - ☁️ AWS | Git | GitHub | Docker (aprendendo)
 
-💡 Atualmente desenvolvendo um projeto pessoal de **gestão financeira** full stack:
-[Finance Manager](https://github.com/Nerfandao/finance-manager)
-
 📫 Vamos conversar:
 [LinkedIn](https://www.linkedin.com/in/fernando-gigliotti) | [E-mail](mailto:fernandogigliotti47@gmail.com)
 
