@@ -1,7 +1,6 @@
 # 👋 Olá, eu sou o Fernando Gigliotti
 
 Sou Desenvolvedor Java Júnior com foco em **backend** utilizando **Spring Boot**, **Angular** e **PostgreSQL**.  
-Apaixonado por transformar ideias em soluções escaláveis e limpas.
 
 🚀 **Stacks principais:**
 - ☕ Java | Spring Boot | JPA | Hibernate  
